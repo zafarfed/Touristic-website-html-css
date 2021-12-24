@@ -1,0 +1,18 @@
+body {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.1)), url("../image/thumb_1456_1140_0_0_0_auto.jpg");
+    background-size: cover;
+    background-position: center center;
+    width: 100%;
+    height: 100vh; }
+.container-fluid .text-menu {
+    font-size: 25px;
+    font-family: Roboto;
+    color: #e5e5e5;
+}
+input{
+    margin-left: 70px;
+}
+.container-fluid .text-menu:hover {
+    background: #e5e5e5;
+    color: white;
+    font-style: unset; }
